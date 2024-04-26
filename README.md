@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C language recreate functions etc. 
 
 - 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact: I studied wine making and I haaate wine.
+  
 
 <!---
 NikolasGoulios/NikolasGoulios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
