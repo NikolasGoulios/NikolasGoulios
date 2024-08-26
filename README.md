@@ -5,7 +5,6 @@
 🔭 I’m currently working on 3d rendering programming, sounds cool, indeed. But really is making me loosing my mind so bare with me<br>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikolasGoulios&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikolasGoulios&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasGoulios&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 # Tech Stack:
