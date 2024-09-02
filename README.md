@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ngoulios) 
 
 [![](https://visitcount.itsvg.in/api?id=NikolasGoulios&icon=4&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nikolasgoulios&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
