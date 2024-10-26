@@ -26,5 +26,3 @@ Whether you're into coding, design, or tech in general, I'm open to connecting a
 Can't wait to chat, share ideas, and grow together!
 
 ---
-
-> “The greatest glory in living lies not in never falling, but in rising every time we fall.” – Nelson Mandela
