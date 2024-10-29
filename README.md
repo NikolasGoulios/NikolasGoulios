@@ -1,28 +1,20 @@
-# Hey there, I'm Nikolas! 👋
+<h1 align="center">Hi 👋, I'm Nikolas</h1>
+<h3 align="center">A passionate software engineer to be</h3>
 
-I'm a tech enthusiast from Greece, now based in Finland, diving deep into the world of computer science. With a unique background in chemical and biotechnology engineering, I bring a solid analytical perspective and a strong passion for combining technology with creative solutions. Currently, I'm studying programming at Hive Helsinki, embracing collaborative, project-based learning with a peer-to-peer approach. My journey is all about refining problem-solving skills and pushing the boundaries of what code can achieve.
+# About Me:
+🔭 I’m currently working on 3d rendering programming, sounds cool, indeed. But really is making me loosing my mind so bare with me<br>
 
-I'm working on multiple projects across coding languages, and I'm especially interested in **efficient code structure** and **self-built implementations** for deep understanding. If you’re into building cool stuff, exploring new ideas, or sharing coding tips, I’d love to connect!
+# GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikolasGoulios&theme=dark&hide_border=true)<br/>
 
-### 💻 Languages & Tools
-- **C Programming**
-- **GitHub** for version control and collaborative projects
-- **Vim** for efficient coding and productivity
-- **Notion** and **Obsidian** for documentation and personal knowledge management
-- **MLX42** for graphics and visualization in coding
+# Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌱 What I'm currently up to:
-- **Fract-ol Project**: Learning complex graphics with MLX42, handling struct-based setups, and refining for modularity.
-- **Libft Project**: Continuously improving my custom library with detailed documentation and a clean structure.
-- **42AI** side project: Starting projects in Python, focusing on AI foundations.
-
-### 🤝 Let's Connect!
-Whether you're into coding, design, or tech in general, I'm open to connecting and learning from each other.
-
-- **LinkedIn**
-- **GitHub**: [My Profile](https://github.com/NikolasGoulios)
-- **Telegram**
-
-Can't wait to chat, share ideas, and grow together!
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## Find me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ngoulios) 
+
+[![](https://visitcount.itsvg.in/api?id=NikolasGoulios&icon=4&color=3)](https://visitcount.itsvg.in)
