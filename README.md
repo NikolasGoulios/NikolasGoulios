@@ -5,8 +5,6 @@
 🔭 I’m a passionate software engineer to be, currently working on 3d rendering programming in C, sounds cool, indeed. I am expirimenting with AI terminology in the bakground, trying to dive into the deep of neural networks and its endless.<br>
 
 
-<br clear="both">
-
 <img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY0emI3cW9ycm91MjJsNjJtbDhlZ2xsaDYydXF1Z3FyYjNoNmZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dx6fcvp6g8uJf8Eoih/giphy.gif"  />
 
 ###
