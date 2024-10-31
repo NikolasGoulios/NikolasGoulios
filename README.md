@@ -5,10 +5,6 @@
 🔭 I’m a passionate software engineer to be, currently working on 3d rendering programming in C, sounds cool, indeed. I am expirimenting with AI terminology in the bakground, trying to dive into the deep of neural networks and its endless.<br>
 
 
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY0emI3cW9ycm91MjJsNjJtbDhlZ2xsaDYydXF1Z3FyYjNoNmZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dx6fcvp6g8uJf8Eoih/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikolasGoulios&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
@@ -19,6 +15,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikolasGoulios&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY0emI3cW9ycm91MjJsNjJtbDhlZ2xsaDYydXF1Z3FyYjNoNmZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dx6fcvp6g8uJf8Eoih/giphy.gif"  />
 </div>
 
 ###
