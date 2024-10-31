@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikolas</h1>
-<h3 align="center">A place where all my nerve wrecking but beudifull codebases is stored.</h3>
+<h3 align="center">A place where all my nerve wrecking but beautiful codebases is stored.</h3>
 
 # About Me:
 🔭 I’m a passionate software engineer to be, currently working on 3d rendering programming in C, sounds cool, indeed. I am expirimenting with AI terminology in the bakground, trying to dive into the deep of neural networks and its endless.<br>
