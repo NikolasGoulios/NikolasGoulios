@@ -19,10 +19,6 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY0emI3cW9ycm91MjJsNjJtbDhlZ2xsaDYydXF1Z3FyYjNoNmZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dx6fcvp6g8uJf8Eoih/giphy.gif"  />
-</div>
-
 ###
 
 <br clear="both">
