@@ -3,7 +3,7 @@
 
 ### About Me
 
-Aspiring Software Engineer passionate about **programming, system architecture, big data,** and **finding patterns in human behavior**—all while staying **organized**.
+Aspiring Software Engineer passionate about **programming, system architecture, big data,** and **finding patterns in human behavior** — big supporter of well **organized** documentation.
 
 🔹 **Currently working on** **Minishell**, implementing a **Bash-like environment** in **C**, focusing on **process management, parsing, and system calls**.  
 🔹 **Exploring new languages** like **C++ and Python**, broadening my knowledge in **object-oriented programming and scripting**.  
