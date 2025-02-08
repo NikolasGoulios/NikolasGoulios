@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Nikolas</h1>
 <h3 align="center">A place where all my nerve wrecking but beautiful codebases is stored.</h3>
 
-# About Me:
-**Aspiring Software Engineer** passionate about **programming**, **system architecture**, **big data**, **finding patterns in human behavior**, and **being organized**.  
-🔹 Currently working on **Minishell**, implementing a **Bash-like environment** in **C**, focusing on **process management, parsing, and system calls**.  
-🔹 Exploring new languages like **C++ and Python**, broadening my knowledge in **object-oriented programming and scripting**.  
-🔹 Experimenting with **AI & Neural Networks** in the background, bridging **high-performance computing** with **intelligent systems**.  
-🔹 Always eager to **push and learn** new things and being proficient in the things I already know.
-🔹 My ultimate goal is to create **innovative products** that enhance **human performance, well-being, and overall quality of life—helping** people become the **best version of themselves** through technology and optimization.
-<br>
+### About Me
+
+Aspiring Software Engineer passionate about **programming, system architecture, big data,** and **finding patterns in human behavior**—all while staying **organized**.
+
+🔹 **Currently working on** **Minishell**, implementing a **Bash-like environment** in **C**, focusing on **process management, parsing, and system calls**.  
+🔹 **Exploring new languages** like **C++ and Python**, broadening my knowledge in **object-oriented programming and scripting**.  
+🔹 **Experimenting with AI & Neural Networks**, bridging **high-performance computing** with **intelligent systems**.  
+🔹 **Always eager to push my limits**, learn new things, and refine my proficiency in what I already know.  
+🔹 **My ultimate goal** is to create **innovative products** that enhance **human performance, well-being, and overall quality of life**—helping people become the **best version of themselves** through **technology and optimization**.  
 
 
 <div align="center">
