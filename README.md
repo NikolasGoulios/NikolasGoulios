@@ -2,7 +2,13 @@
 <h3 align="center">A place where all my nerve wrecking but beautiful codebases is stored.</h3>
 
 # About Me:
-🔭 I’m a passionate software engineer to be, currently working on 3d rendering programming in C, sounds cool, indeed. I am expirimenting with AI terminology in the bakground, trying to dive into the deep of neural networks and its endless.<br>
+**Aspiring Software Engineer** passionate about **programming**, **system architecture**, **big data**, **finding patterns in human behavior**, and **being organized**.  
+🔹 Currently working on **Minishell**, implementing a **Bash-like environment** in **C**, focusing on **process management, parsing, and system calls**.  
+🔹 Exploring new languages like **C++ and Python**, broadening my knowledge in **object-oriented programming and scripting**.  
+🔹 Experimenting with **AI & Neural Networks** in the background, bridging **high-performance computing** with **intelligent systems**.  
+🔹 Always eager to **push and learn** new things and being proficient in the things I already know.
+🔹 My ultimate goal is to create **innovative products** that enhance **human performance, well-being, and overall quality of life—helping** people become the **best version of themselves** through technology and optimization.
+<br>
 
 
 <div align="center">
