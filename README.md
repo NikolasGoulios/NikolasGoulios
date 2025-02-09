@@ -5,11 +5,12 @@
 
 Aspiring Software Engineer passionate about **programming, system architecture, big data,** and **finding patterns in human behavior** — big supporter of well **organized** documentation.
 
-🔹 **Currently working on** **Minishell**, implementing a **Bash-like environment** in **C**, focusing on **process management, parsing, and system calls**.  
+🔹 **Currently working on** **Minishell**, implementing a **Bash-like environment** in **C**, focusing on **parsing**.  
 🔹 **Exploring new languages** like **C++ and Python**, broadening my knowledge in **object-oriented programming and scripting**.  
-🔹 **Experimenting with AI & Neural Networks**, bridging **high-performance computing** with **intelligent systems**.  
-🔹 **Always eager to push my limits**, learn new things, and refine my proficiency in what I already know.  
-🔹 **My ultimate goal** is to create **innovative products** that enhance **human performance, well-being, and overall quality of life**—helping people become the **best version of themselves** through **technology and optimization**.  
+🔹 **Experimenting with AI & Neural Networks**
+
+
+"**My ultimate goal** is to create **innovative products** that enhance **human performance, well-being, and overall quality of life**—helping people become the **best version of themselves** through **technology and optimization**."  
 
 
 <div align="center">
