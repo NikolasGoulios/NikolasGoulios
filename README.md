@@ -13,10 +13,6 @@ Aspiring Software Engineer passionate about **programming, system architecture, 
 "**My ultimate goal** is to create **innovative products** that enhance **human performance, well-being, and overall quality of life**—helping people become the **best version of themselves** through **technology and optimization**."  
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikolasGoulios&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <br clear="both">
