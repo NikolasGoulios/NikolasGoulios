@@ -5,12 +5,12 @@
 
 Aspiring Software Engineer passionate about **programming, system architecture, big data,** and **finding patterns in human behavior** — big supporter of well **organized** documentation.
 
-🔹 **Currently working on** **Front-End & Back-End Engineering**, implementing a **health tracking app** in **TypeScript.js**, focusing on **creating a lovable product, a usefull tool**.  
+🔹 **Currently working on** **Front-End & Back-End Engineering**.
 🔹 **Exploring new languages** like **Python & TypeScript**, broadening my knowledge in **object-oriented programming and scripting**.  
 🔹 **Experimenting with AI & Neural Networks, such an intrsting time to be alive isn't it**
 
 
-"**My ultimate goal** is to create **innovative products** that enhance **human performance, well-being, and overall quality of life**—helping people become the **best version of themselves** through **technology and optimization**.
+"**My ultimate goal** is to create **innovative products** that enhance **human performance, well-being, and overall quality of life**, helping people become the **best version of themselves** through **technology and optimization**.
 Have you heard of Dr. Huberman?"  
 
 
